@@ -1,0 +1,18 @@
+Author: Xinyang Zhang(xizc15), Song Li(sol315)
+Date: May 17th, 2016
+
+Contents:
+    k-means/ : K-means
+    matrix/ : Matrix Multiplication
+    matrix_ex/ : Matrix Addition
+
+Dependency:
+    (1) Intel TBB
+    (2) Nvidia CUDA Toolkit
+    (3) AVX2 Support CPU
+    (4) GNU C++ Compiler
+
+Usage:
+    chmod 700 run.sh
+    ./run.sh
+
